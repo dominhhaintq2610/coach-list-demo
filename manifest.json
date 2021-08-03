@@ -1,0 +1,31 @@
+{
+  "production": {
+    "app.css": "css/app.d3a23f31.css",
+    "app.js": "js/app.0cde67eb.js",
+    "app.css.map": "css/app.d3a23f31.css.map",
+    "app.js.map": "js/app.0cde67eb.js.map",
+    "chunk-vendors.css": "css/chunk-vendors.464374dd.css",
+    "chunk-vendors.js": "js/chunk-vendors.5dff5a2a.js",
+    "chunk-vendors.css.map": "css/chunk-vendors.464374dd.css.map",
+    "chunk-vendors.js.map": "js/chunk-vendors.5dff5a2a.js.map",
+    "favicon.ico": "favicon.ico",
+    "fonts/framework7-icons.css": "fonts/Framework7Icons-Regular.988e8c7a.woff2",
+    "fonts/CurriculumReceiver.vue?vue&type=style&index=0&id=27e12727&lang=scss&scoped=true&": "fonts/Roboto-Regular.234b64c0.ttf",
+    "img/app_coaches_top.jpg": "img/app_coaches_top.7b6b360b.jpg",
+    "img/app_coaches_top@2x.jpg": "img/app_coaches_top@2x.6830acc1.jpg",
+    "img/app_coaches_top@3x.jpg": "img/app_coaches_top@3x.c8a59103.jpg",
+    "img/avex_coaches_top.jpg": "img/avex_coaches_top.a45193f9.jpg",
+    "img/avex_coaches_top@2x.jpg": "img/avex_coaches_top@2x.0d41f859.jpg",
+    "img/avex_coaches_top@3x.jpg": "img/avex_coaches_top@3x.7aac6d10.jpg",
+    "img/bg.jpg": "img/bg.03c20224.jpg",
+    "img/bg@2x.jpg": "img/bg@2x.b39ae425.jpg",
+    "img/bg@3x.jpg": "img/bg@3x.a47beb3e.jpg",
+    "img/bnr-intro-movie.png": "img/bnr-intro-movie.356523ac.png",
+    "img/bnr-lesson-flow.png": "img/bnr-lesson-flow.2f7593c7.png",
+    "img/CoachBottomButton.vue?vue&type=style&index=0&id=2e1780a2&lang=scss&scoped=true&": "img/coach-bottom-button.5b4d601b.png",
+    "img/web_coaches_top.jpg": "img/web_coaches_top.315b9211.jpg",
+    "img/web_coaches_top@2x.jpg": "img/web_coaches_top@2x.7353bb55.jpg",
+    "img/web_coaches_top@3x.jpg": "img/web_coaches_top@3x.4cddc24b.jpg",
+    "index.html": "index.html"
+  }
+}
